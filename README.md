@@ -56,11 +56,11 @@ As the lead Virtual Assistant and Project Manager, I planned, structured, and ex
 
 
 ### Calendar View
-<img width="1920" height="1080" alt="Screenshot (148)" src="https://github.com/user-attachments/assets/3cdedc55-9247-4a36-825a-d923049af08b" />
-<img width="1920" height="1080" alt="Screenshot (149)" src="https://github.com/user-attachments/assets/35112cc3-536d-45b8-ae9a-f7795fd41ff4" />
-<img width="1920" height="1080" alt="Screenshot (150)" src="https://github.com/user-attachments/assets/fe1bd76d-fc14-4733-a549-c40e57854323" />
-<img width="1920" height="1080" alt="Screenshot (151)" src="https://github.com/user-attachments/assets/85508963-8282-403f-8fc7-fb97568c4c76" />
-<img width="1920" height="1080" alt="Screenshot (152)" src="https://github.com/user-attachments/assets/e1bc3df4-4dff-4466-bf13-e9fd29516b58" />
+<img width="1920" height="1080" alt="Screenshot (169)" src="https://github.com/user-attachments/assets/61554109-664c-4fa7-9c02-c0854cd7f4e3" />
+<img width="1920" height="1080" alt="Screenshot (170)" src="https://github.com/user-attachments/assets/ec414486-0180-440c-bcb5-835b897b4e8f" />
+<img width="1920" height="1080" alt="Screenshot (171)" src="https://github.com/user-attachments/assets/9b50cf60-beae-4abb-8a58-7b8d051c84a7" />
+<img width="1920" height="1080" alt="Screenshot (172)" src="https://github.com/user-attachments/assets/445a2182-983d-44b9-b552-27c1ac7e9f43" />
+
 
 ### 📊 Task Delegation Breakdown
 

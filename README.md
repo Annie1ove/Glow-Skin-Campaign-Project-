@@ -59,4 +59,11 @@ As the lead Virtual Assistant and Project Manager, I planned, structured, and ex
 <img width="1920" height="1080" alt="Screenshot (151)" src="https://github.com/user-attachments/assets/85508963-8282-403f-8fc7-fb97568c4c76" />
 <img width="1920" height="1080" alt="Screenshot (152)" src="https://github.com/user-attachments/assets/e1bc3df4-4dff-4466-bf13-e9fd29516b58" />
 
+### 📊 Task Delegation Breakdown
 
+| Project Phase | Primary Owner | Specific Scope & Responsibilities |
+| :--- | :--- | :--- |
+| *Phase 1: Setup & Strategy* | Person A (Execution Lead) | Target audience research, competitor analysis, SEO keyword creation, and initial brand guidelines. |
+| *Phase 2: Store Build & Visuals* | Person A & Person B (Split) | *Person A:* Product/mobile photography and website copy.<br>*Person B:* Page wireframes, layout design, and payment gateway integration. |
+| *Phase 3: QA & Creator Outreach* | Person B (Operations Lead) | Landing page testing, checkout verification, customer support desk setup, and shipping influencer packages. |
+| *Phase 4: Social Launch Execution* | Person A (Execution Lead) | Content calendar planning, caption writing, graphic design, and video asset creation across Instagram & TikTok. |

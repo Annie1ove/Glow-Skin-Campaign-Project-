@@ -40,10 +40,10 @@ As the lead Virtual Assistant and Project Manager, I planned, structured, and ex
 ### Trello Board
 <img width="1920" height="1080" alt="Screenshot (137)" src="https://github.com/user-attachments/assets/37a6762d-1d3a-4b4b-b367-81eb1daeb603" />
 <img width="1920" height="1080" alt="Screenshot (138)" src="https://github.com/user-attachments/assets/bc6705e9-160f-48da-b67a-f28288578707" />
+<img width="1920" height="1080" alt="Screenshot (140)" src="https://github.com/user-attachments/assets/e5ed5aba-cd86-4f2d-984e-0c2257dc6967" />
+<img width="1920" height="1080" alt="Screenshot (141)" src="https://github.com/user-attachments/assets/8957915a-e62e-45ee-94f3-291140e551c8" />
 
 
-<img width="1920" height="1080" alt="Screenshot (143)" src="https://github.com/user-attachments/assets/af19d39f-daa4-4a5c-ba58-b3e29a6bc057" />
-<img width="1920" height="1080" alt="Screenshot (142)" src="https://github.com/user-attachments/assets/12c51006-6e61-4135-84aa-1a3f93689aa5" />
 
 
 

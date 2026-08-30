@@ -52,7 +52,7 @@ As the lead Virtual Assistant and Project Manager, I planned, structured, and ex
 <img width="1920" height="1080" alt="Screenshot (146)" src="https://github.com/user-attachments/assets/83b5203c-ed6f-44e8-b838-9ac29a760147" />
 <img width="1920" height="1080" alt="Screenshot (147)" src="https://github.com/user-attachments/assets/f5c83b0c-e8c5-4828-a2fa-f399bedcad20" />
 
-### Calendar Overview
+### Calendar View
 <img width="1920" height="1080" alt="Screenshot (148)" src="https://github.com/user-attachments/assets/3cdedc55-9247-4a36-825a-d923049af08b" />
 <img width="1920" height="1080" alt="Screenshot (149)" src="https://github.com/user-attachments/assets/35112cc3-536d-45b8-ae9a-f7795fd41ff4" />
 <img width="1920" height="1080" alt="Screenshot (150)" src="https://github.com/user-attachments/assets/fe1bd76d-fc14-4733-a549-c40e57854323" />

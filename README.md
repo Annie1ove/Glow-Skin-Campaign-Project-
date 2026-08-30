@@ -42,6 +42,9 @@ As the lead Virtual Assistant and Project Manager, I planned, structured, and ex
 <img width="1920" height="1080" alt="Screenshot (156)" src="https://github.com/user-attachments/assets/944250e7-6c31-4aef-bb53-5d71972919f7" />
 <img width="1920" height="1080" alt="Screenshot (157)" src="https://github.com/user-attachments/assets/18c5747b-b982-46f8-80d3-82a299f4a252" />
 
+<img width="1920" height="1080" alt="Screenshot (162)" src="https://github.com/user-attachments/assets/44dd31d8-4be1-4d86-babd-0c1f37428425" />
+<img width="1920" height="1080" alt="Screenshot (163)" src="https://github.com/user-attachments/assets/747d0387-db15-4f89-929b-18a6438ff500" />
+
 <img width="1920" height="1080" alt="Screenshot (154)" src="https://github.com/user-attachments/assets/60f30aed-9a8f-4197-aeb6-33454b98ffa6" />
 <img width="1920" height="1080" alt="Screenshot (155)" src="https://github.com/user-attachments/assets/4f861afa-4887-433b-b927-27dd623af649" />
 

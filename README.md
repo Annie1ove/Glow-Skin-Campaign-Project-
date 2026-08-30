@@ -49,10 +49,11 @@ As the lead Virtual Assistant and Project Manager, I planned, structured, and ex
 <img width="1920" height="1080" alt="Screenshot (155)" src="https://github.com/user-attachments/assets/4f861afa-4887-433b-b927-27dd623af649" />
 
 ### Project Overview
-<img width="1920" height="1080" alt="Screenshot (144)" src="https://github.com/user-attachments/assets/48d3a82c-58c4-4b89-82b6-0af10885415d" />
-<img width="1920" height="1080" alt="Screenshot (145)" src="https://github.com/user-attachments/assets/84a44d47-6996-4eee-b931-043673ea3510" />
-<img width="1920" height="1080" alt="Screenshot (146)" src="https://github.com/user-attachments/assets/83b5203c-ed6f-44e8-b838-9ac29a760147" />
-<img width="1920" height="1080" alt="Screenshot (147)" src="https://github.com/user-attachments/assets/f5c83b0c-e8c5-4828-a2fa-f399bedcad20" />
+<img width="1920" height="1080" alt="Screenshot (165)" src="https://github.com/user-attachments/assets/a8fb3d0f-6d4d-46ae-a7d2-62c269bd884a" />
+<img width="1920" height="1080" alt="Screenshot (166)" src="https://github.com/user-attachments/assets/67f6f1d5-af2b-4666-8e0f-39542f474e85" />
+<img width="1920" height="1080" alt="Screenshot (167)" src="https://github.com/user-attachments/assets/f3dde3af-485b-4258-8e50-e3f93c80357e" />
+<img width="1920" height="1080" alt="Screenshot (168)" src="https://github.com/user-attachments/assets/0f9ef8bf-24e8-4e49-adbd-10e580e38e0b" />
+
 
 ### Calendar View
 <img width="1920" height="1080" alt="Screenshot (148)" src="https://github.com/user-attachments/assets/3cdedc55-9247-4a36-825a-d923049af08b" />

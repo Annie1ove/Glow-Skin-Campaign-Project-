@@ -63,7 +63,7 @@ As the lead Virtual Assistant and Project Manager, I planned, structured, and ex
 
 | Project Phase | Primary Owner | Specific Scope & Responsibilities |
 | :--- | :--- | :--- |
-| *Phase 1: Setup & Strategy* | Person A (Execution Lead) | Target audience research, competitor analysis, SEO keyword creation, and initial brand guidelines. |
-| *Phase 2: Store Build & Visuals* | Person A & Person B (Split) | *Person A:* Product/mobile photography and website copy.<br>*Person B:* Page wireframes, layout design, and payment gateway integration. |
-| *Phase 3: QA & Creator Outreach* | Person B (Operations Lead) | Landing page testing, checkout verification, customer support desk setup, and shipping influencer packages. |
-| *Phase 4: Social Launch Execution* | Person A (Execution Lead) | Content calendar planning, caption writing, graphic design, and video asset creation across Instagram & TikTok. |
+| *Phase 1: Setup & Strategy* | Execution Lead | Target audience research, competitor analysis, SEO keyword creation, and initial brand guidelines. |
+| *Phase 2: Store Build & Visuals* | Execution Lead & Designer (Split) | *Execution Lead:* Product/mobile photography and website copy.<br>*Designer:* Page wireframes, layout design, and payment gateway integration. |
+| *Phase 3: QA & Creator Outreach* | Designer (Operations Lead) | Landing page testing, checkout verification, customer support desk setup, and shipping influencer packages. |
+| *Phase 4: Social Launch Execution* | Execution Lead | Content calendar planning, caption writing, graphic design, and video asset creation across Instagram & TikTok. |

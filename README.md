@@ -10,7 +10,7 @@ As the lead Virtual Assistant and Project Manager, I planned, structured, and ex
 ## Key Responsibilities & Execution
 
 * *Workflow Architecture:* Designed the 4-phase project lifecycle (Research & Setup, Design & Development, Review & Testing, Campaign Launch) to keep deliverables on track across a 5-week schedule.
-* *Balanced Delegation Strategy:* Established a strict two-person task distribution framework separating *Execution (Person A)* from *Operations & QA (Person B)* to prevent bottlenecks and eliminate individual workload fatigue.
+* *Balanced Delegation Strategy:* Established a strict two-person task distribution framework separating *Execution (Designer)* from *Operations & QA (Developer)* to prevent bottlenecks and eliminate individual workload fatigue.
 * *Single-Owner Accountability:* Maintained zero ambiguity by enforcing a single-assignee rule per card, ensuring clear ownership for every step from copy drafting to checkout testing.
 * *Automated Handoffs:* Set up board automation rules to seamlessly transfer cards from In Progress to Review & QA, automatically shifting responsibility from creation to operational quality checks.
 * *Quality Assurance & Testing:* Personally oversaw pre-launch testing workflows, including payment gateway integrations, mobile responsiveness, and UGC/influencer package logistics.

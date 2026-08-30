@@ -39,13 +39,10 @@ As the lead Virtual Assistant and Project Manager, I planned, structured, and ex
 ## Project screenshots
 
 ### Trello Board
+<img width="1920" height="1080" alt="Screenshot (156)" src="https://github.com/user-attachments/assets/944250e7-6c31-4aef-bb53-5d71972919f7" />
+<img width="1920" height="1080" alt="Screenshot (157)" src="https://github.com/user-attachments/assets/18c5747b-b982-46f8-80d3-82a299f4a252" />
 <img width="1920" height="1080" alt="Screenshot (154)" src="https://github.com/user-attachments/assets/60f30aed-9a8f-4197-aeb6-33454b98ffa6" />
 <img width="1920" height="1080" alt="Screenshot (155)" src="https://github.com/user-attachments/assets/4f861afa-4887-433b-b927-27dd623af649" />
-
-<img width="1920" height="1080" alt="Screenshot (140)" src="https://github.com/user-attachments/assets/e5ed5aba-cd86-4f2d-984e-0c2257dc6967" />
-<img width="1920" height="1080" alt="Screenshot (141)" src="https://github.com/user-attachments/assets/8957915a-e62e-45ee-94f3-291140e551c8" />
-<img width="1920" height="1080" alt="Screenshot (142)" src="https://github.com/user-attachments/assets/8e9fd5a8-2f21-4872-aa79-471dc0fde592" />
-<img width="1920" height="1080" alt="Screenshot (143)" src="https://github.com/user-attachments/assets/cc4cab22-1004-4749-a971-b8847e47c695" />
 
 ### Project Overview
 <img width="1920" height="1080" alt="Screenshot (144)" src="https://github.com/user-attachments/assets/48d3a82c-58c4-4b89-82b6-0af10885415d" />

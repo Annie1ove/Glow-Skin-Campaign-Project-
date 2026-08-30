@@ -37,6 +37,7 @@ As the lead Virtual Assistant and Project Manager, I planned, structured, and ex
 - Dependencies
 
 ## Project screenshots
+
 ### Trello Board
 <img width="1920" height="1080" alt="Screenshot (137)" src="https://github.com/user-attachments/assets/37a6762d-1d3a-4b4b-b367-81eb1daeb603" />
 <img width="1920" height="1080" alt="Screenshot (138)" src="https://github.com/user-attachments/assets/bc6705e9-160f-48da-b67a-f28288578707" />
@@ -45,7 +46,11 @@ As the lead Virtual Assistant and Project Manager, I planned, structured, and ex
 <img width="1920" height="1080" alt="Screenshot (142)" src="https://github.com/user-attachments/assets/8e9fd5a8-2f21-4872-aa79-471dc0fde592" />
 <img width="1920" height="1080" alt="Screenshot (143)" src="https://github.com/user-attachments/assets/cc4cab22-1004-4749-a971-b8847e47c695" />
 
-
+### Project Overview
+<img width="1920" height="1080" alt="Screenshot (144)" src="https://github.com/user-attachments/assets/48d3a82c-58c4-4b89-82b6-0af10885415d" />
+<img width="1920" height="1080" alt="Screenshot (145)" src="https://github.com/user-attachments/assets/84a44d47-6996-4eee-b931-043673ea3510" />
+<img width="1920" height="1080" alt="Screenshot (146)" src="https://github.com/user-attachments/assets/83b5203c-ed6f-44e8-b838-9ac29a760147" />
+<img width="1920" height="1080" alt="Screenshot (147)" src="https://github.com/user-attachments/assets/f5c83b0c-e8c5-4828-a2fa-f399bedcad20" />
 
 
 
